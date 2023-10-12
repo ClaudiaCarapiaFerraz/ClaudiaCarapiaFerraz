@@ -1,4 +1,4 @@
-## Olá! Eu sou a Cláudia Carapiá 
+## Olá! Eu sou a Cláudia Carapiá Ferraz
 
 - 🌱 Estudando C#, JavaScript, Html, CSS e React
 - 😄 Pronomes: ela/dela
